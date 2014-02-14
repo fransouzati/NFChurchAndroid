@@ -44,6 +44,10 @@ public class MainActivity extends Activity {
 	public void NovaVendaClick(View v){
 		startActivity(new Intent(getBaseContext(), NovaVendaActivity.class));
 	}
+	
+	public void ListarVendasClick(View v){
+		startActivity(new Intent(getBaseContext(), ListarVendasActivity.class));
+	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
