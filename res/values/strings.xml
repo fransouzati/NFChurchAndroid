@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">NFChurch</string>
-    <string name="action_settings">Configurações</string>
-    <string name="title_section1">Início</string>
-    <string name="title_section2">Membros</string>
-    <string name="title_section3">Dia da Bosta</string>
-    <string-array name="membros">
-        <item >Douglas Araújo</item>
-        <item >Júnior Fuganholi</item>
-        <item >Diego Moreira</item>
-        <item >Bruno Gerotto</item>
-    </string-array>
+    <string name="app_name">Vendas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
